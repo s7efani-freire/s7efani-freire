@@ -52,12 +52,12 @@ Tenho experiência em planejamento, coordenação e desenvolvimento de projetos 
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=s7efani-freire&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=c084fc"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7efani-freire&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=stefani-teiu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=c084fc"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani-teiu&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s7efani-freire&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefani-teiu&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" />
 </div>
 
 ---
