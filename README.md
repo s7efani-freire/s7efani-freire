@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=200&section=header&text=Stéfani%20Freire&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%7C%20Desenvolvedora%20Full%20Stack&descAlignY=58&descSize=18&descColor=d8b4fe)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Tech+Lead+apaixonada+por+tecnologia+%F0%9F%92%9C;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Tech+Lead+apaixonada+por+tecnologia+%F0%9F%92%9C;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
