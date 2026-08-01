@@ -39,6 +39,7 @@ Tenho experiência em planejamento, coordenação e desenvolvimento de projetos 
 ![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
@@ -52,12 +53,16 @@ Tenho experiência em planejamento, coordenação e desenvolvimento de projetos 
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=stefani-teiu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=c084fc"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani-teiu&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=s7efani-freire&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=c084fc&cache_seconds=86400" alt="GitHub Stats de Stéfani Freire"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7efani-freire&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c084fc&cache_seconds=86400" alt="Linguagens mais usadas"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefani-teiu&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" />
+
+  <img src="https://streak-stats.demolab.com/?user=s7efani-freire&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" alt="Streak de contribuições"/>
+
 </div>
 
 ---
